@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+}
+.back-image {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+  font-weight: 700;
+  background-image: url(bg_1.png);
+
+
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  background-attachment: scorll;
+}
+
+.sign-up-form {
+  width: 700px;
+ 
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+  background: #ffff;
+  padding: 2px;
+  margin: 1% auto 0;
+  text-align: center;
+  border-radius: 30px;
+ 
+}
+
+.sign-in-form {
+  width: 700px;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+  background: #ffff;
+  padding-bottom : 450px;
+  margin: 1% auto 0;
+  text-align: center;
+  border-radius: 30px;
+  
+ 
+
+}
+
+#pu {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: 50px;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+#logo {
+  border-radius: 10px;
+  margin-top: 60px;
+  margin-bottom: 50px;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.input-box {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  border-radius: 20px;
+  padding: 3px;
+  margin: 5px 0;
+  width: 90%;
+  border: 3px solid rgb(0, 0, 0);
+  outline: none;
+}
+
+button {
+  color: rgb(255, 255, 255);
+  width: 40%;
+  padding: 3px;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 900;
+  font-family: "Courier New", Courier, monospace;
+  margin: 10px 0;
+  border: 3px solid rgb(0, 0, 0);
+  outline: none;
+  cursor: pointer;
+}
+
+.signup-btn {
+  background-color: royalblue;
+}
+
+.signin-btn {
+  background-color: rgb(255, 217, 0);
+}
+
+.login-btn {
+  background-color: rgb(255, 217, 0);
+}
+
+.twitter-btn {
+  background-color: rgb(60, 206, 231);
+}
+
+a {
+  text-decoration: none;
+}
+
+hr {
+  margin-top: 20px;
+  width: 50%;
+}
+
+.or {
+  background: #fff;
+  width: 30px;
+  margin: -22px auto 10px;
+}
+
+#pp {
+  width: 70px;
+  margin-top: -50px;
+}
